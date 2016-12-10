@@ -1,0 +1,15 @@
+h1 a {
+    color: #fff;
+    font-family: 'Lobster';
+}
+.post-title {
+    background-color: #FCA205;
+    padding: 20px;
+}
+body {
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 15px;
+}
+.tekst{padding-left: 40px}
+.glowny_tytul a{color: #FCA205;}
